@@ -186,24 +186,26 @@
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "phone",
+              "linkInNewWindow": false,
+              "name": "touch",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "family": "et-line"
+              "color": "black"
             }
           },
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "edit",
+              "linkInNewWindow": false,
+              "name": "magic-stick",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "family": "et-line"
+              "color": "black"
             }
           },
           "media3": {
