@@ -297,7 +297,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CONTACT FORM",
-          "subtitle": "Drop me a line, andn I will contact you with in 24 hours.",
+          "subtitle": "Drop me a line, and I will contact you with in 24 hours.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
           "form": {
             "action": "Robert.Cole@USHAdvisors.com",
